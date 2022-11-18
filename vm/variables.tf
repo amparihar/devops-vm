@@ -5,3 +5,11 @@ variable "aws_region"{
 variable "aws_regions" {
     type = map(string)
 }
+
+variable "s3_backend_bucket_name" {
+    type    = string
+}
+
+variable "lock_table_name" {
+    type    = string
+} 
