@@ -5,9 +5,9 @@ aws_regions = {
 
 application="production-adc-inhouse-developed-website"
 # server Name
-name="APSIAP006"
+name=""
 # Windows_Server-2019-English-Full-SQL_2017_Standard-2022.09.14
-ami="ami-0a935f6f9d2f747ff"
+ami=""
 #  2 vcpu 8Gb RAM
 instance_type="t3.xlarge"
 
