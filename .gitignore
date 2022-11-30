@@ -1,1 +1,16 @@
-.terraform/
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+*.terraform.lock.hcl
+
+# Crash log files
+crash.log
+
+# Ignore local .idea directory
+.idea
+
+# ignore output directory containing sensitive data (created for Lansweeper credentials export)
+**/output_files/*
