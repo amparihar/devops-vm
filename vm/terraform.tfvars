@@ -3,7 +3,7 @@ aws_regions = {
     ohio = "us-east-2"
 }
 
-application="production-adc-inhouse-developed-website"
+application="todos-web-app"
 # server Name
 name=""
 # Windows_Server-2019-English-Full-SQL_2017_Standard-2022.09.14
